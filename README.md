@@ -25,7 +25,7 @@ Using drones with AI was intriguing early on. You can read more about using dron
 
 Please watch this video showing the entire business proess used for that process: https://youtu.be/Nv4i9rxGp_s
 
-## Training for Visual Recognition - Tailes
+## Training for Visual Recognition - breaking a large file into tiles
 Fast training for the Watson Visual Recognition is possible through [the Watson Visual Recognition command line tool - check it here](https://developer.ibm.com/dwblog/2017/command-line-tools-watson-visual-recognition/). The code to the npm tool is here: https://www.npmjs.com/package/watson-visual-recognition-utils
 
 [In addition to the regular training you might want to use the tiling tool - here](https://github.com/IBM-Cloud/Visual-Recognition-Tile-Localization)
