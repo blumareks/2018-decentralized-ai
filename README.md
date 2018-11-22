@@ -1,7 +1,7 @@
 # 2018 Decentralized AI in San Francisco
 Some links and code for Decentralized AI
 
-![](images/decentralizedai.png)
+![](images/dectralizedai.png)
 *The Decentralized AI conference was full - with great sessions from major players and niche contributors*
 
 1. In order to use Watson AI services (there is a free tier!) please [signup for IBM Cloud here](http://bluemix.net)
